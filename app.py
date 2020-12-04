@@ -4,7 +4,7 @@ from tkinter import *
 # set main root
 root = Tk()
 root.title("CASIO")
-root.iconbitmap('./icons/iconfinder_calculator_309097.ico')
+root.iconbitmap('icon.ico')
 root.geometry("322x310")
 root.resizable(0, 0)
 
